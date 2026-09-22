@@ -1,0 +1,6 @@
+{
+  "name": "QuickServe",
+  "description": "Enterprise-grade Service Request Management System with Flutter mobile client, Admin web portal, Supabase PostgreSQL backend, strict RBAC, and audit trails.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
